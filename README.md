@@ -36,8 +36,8 @@ This section in your README file will inform users about the prerequisites and p
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/face-recognition-haar-cascade.git
-   cd face-recognition-haar-cascade
+   git clone https://github.com/your-username/repo-name.git
+   cd repo-name
 ### Required Libraries
 
 2. This project relies on several Python libraries. You can install them using `pip`:
