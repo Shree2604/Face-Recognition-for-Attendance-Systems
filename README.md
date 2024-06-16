@@ -5,7 +5,7 @@
 
 This repository contains a face recognition project designed to automate attendance management systems using computer vision techniques.
 
-## Table of Contents:
+## Table of Contents-
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
